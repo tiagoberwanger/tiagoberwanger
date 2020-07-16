@@ -6,4 +6,4 @@
 
 ## Bem vindos! 
 
-Meu nome é Tiago Berwanger, e eu sou estudante de Desenvolvimento de software pela Trybe.
+Estudante de Desenvolvimento de software | Trybe.
