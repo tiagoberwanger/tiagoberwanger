@@ -14,4 +14,4 @@ The program has more than **1,500 hours** of classroom and online classes and co
 
 #### Trybe Repository *(https://github.com/tiagoberwanger/Curso-Trybe)*
 
-![alt text](https://media.giphy.com/media/dGmNFUWqj5Iqyxib7a/giphy.gif)
+![alt text](<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />)
