@@ -30,8 +30,10 @@ Some examples of projects done so far:
 ### Trybe Wallet - Using React/Redux Project with API request to Exchange API.
 ![Project Trybe Wallet](https://media.giphy.com/media/qWzH2qOenhkXWJv28u/giphy.gif)
 
-### Datatable StarWars - Using React/Hooks + API request to Starwars planets API.
+### StarWars Datatable - Using React/Hooks + API request to Starwars planets API.
 ![Project Datatable Starwars](https://media.giphy.com/media/zLVzLwAyFQ6Q7nLIjq/giphy.gif)
 
+### FrontEnd Recipes App- Using React/Redux + API request to Recipes API + responsive to smartphones.
+(group project / 10 days - sprint time / using Kanban)
 
 ![Project Recipes App](https://media.giphy.com/media/UAwJNWJhxbkp8YIUeh/giphy.gif)
