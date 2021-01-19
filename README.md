@@ -23,7 +23,7 @@ The program has more than **1,500 hours** of classroom and online classes and co
 ![Project Facebook SignIn](https://media.giphy.com/media/OdKwp6Co8PJraoYHtV/giphy.gif)
 
 ### FrontEnd Online Store - Using React + API request to MercadoLibre API.
-(group project / 4 days / using Kanbam)
+(group project / 4 days / using Kanban)
 
 ![Project FrontEnd Online Store](https://media.giphy.com/media/iJJLQ1Tw1SFZPxbUXM/giphy.gif)
 
