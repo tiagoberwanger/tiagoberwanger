@@ -14,15 +14,22 @@ The program has more than **1,500 hours** of classroom and online classes and co
 
 #### Trybe Repository *(https://github.com/tiagoberwanger/Curso-Trybe)*
 
+Some examples of projects done so far:
+
+### Task List - Using HTML, CSS and JS languages.
 ![Project To Do List](https://media.giphy.com/media/RSDSR88QEX52dAtZcF/giphy.gif)
 
+### Facebook Sign Up Page - Using CSS styled flexbox and features.
 ![Project Facebook SignIn](https://media.giphy.com/media/OdKwp6Co8PJraoYHtV/giphy.gif)
 
+### FrontEnd Online Store - Using React + API request to MercadoLibre API.
+(group project / 4 days / using Kanbam)
 ![Project FrontEnd Online Store](https://media.giphy.com/media/iJJLQ1Tw1SFZPxbUXM/giphy.gif)
 
+### Trybe Wallet - Using React/Redux Project with API request to Exchange API.
 ![Project Trybe Wallet](https://media.giphy.com/media/qWzH2qOenhkXWJv28u/giphy.gif)
 
+### Datatable StarWars - Using React/Hooks + API request to Starwars planets API.
 ![Project Datatable Starwars](https://media.giphy.com/media/zLVzLwAyFQ6Q7nLIjq/giphy.gif)
 
-![Project Recipes App](https://media.giphy.com/media/dGmNFUWqj5Iqyxib7a/giphy.gif)
 
