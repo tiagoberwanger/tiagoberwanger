@@ -24,6 +24,7 @@ The program has more than **1,500 hours** of classroom and online classes and co
 
 ### FrontEnd Online Store - Using React + API request to MercadoLibre API.
 (group project / 4 days / using Kanbam)
+
 ![Project FrontEnd Online Store](https://media.giphy.com/media/iJJLQ1Tw1SFZPxbUXM/giphy.gif)
 
 ### Trybe Wallet - Using React/Redux Project with API request to Exchange API.
