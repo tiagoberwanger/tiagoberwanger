@@ -24,6 +24,5 @@ The program has more than **1,500 hours** of classroom and online classes and co
 
 ![Project Datatable Starwars](https://media.giphy.com/media/zLVzLwAyFQ6Q7nLIjq/giphy.gif)
 
-![Project Recipes App](https://media.giphy.com/media/s6jQb6acBVKczxBXN2/giphy.gif)
+![Project Recipes App](https://media.giphy.com/media/dGmNFUWqj5Iqyxib7a/giphy.gif)
 
-![test](https://giphy.com/gifs/dGmNFUWqj5Iqyxib7a/html5)
