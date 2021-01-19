@@ -14,4 +14,14 @@ The program has more than **1,500 hours** of classroom and online classes and co
 
 #### Trybe Repository *(https://github.com/tiagoberwanger/Curso-Trybe)*
 
-![alt text](https://media.giphy.com/media/RSDSR88QEX52dAtZcF/giphy.gif)
+![Project To Do List](https://media.giphy.com/media/RSDSR88QEX52dAtZcF/giphy.gif)
+
+![Project Facebook SignIn](https://media.giphy.com/media/OdKwp6Co8PJraoYHtV/giphy.gif)
+
+![Project FrontEnd Online Store](https://media.giphy.com/media/iJJLQ1Tw1SFZPxbUXM/giphy.gif)
+
+![Project Trybe Wallet](https://media.giphy.com/media/qWzH2qOenhkXWJv28u/giphy.gif)
+
+![Project Datatable Starwars](https://media.giphy.com/media/zLVzLwAyFQ6Q7nLIjq/giphy.gif)
+
+![Project Recipes App](https://media.giphy.com/media/s6jQb6acBVKczxBXN2/giphy.gif)
