@@ -14,7 +14,7 @@ The program has more than **1,500 hours** of classroom and online classes and co
 
 ## Trybe Repository *(https://github.com/tiagoberwanger/Curso-Trybe)*
 
-#### Some examples of projects done so far:
+Some examples of projects done so far:
 
 ### Task List - Using HTML, CSS and JS languages.
 ![Project To Do List](https://media.giphy.com/media/RSDSR88QEX52dAtZcF/giphy.gif)
