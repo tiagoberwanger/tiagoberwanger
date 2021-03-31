@@ -40,3 +40,8 @@ Some examples of projects done so far:
 (group project / 10 days / Kanban + Sprint Scrum)
 
 ![Project Recipes App](https://media.giphy.com/media/UAwJNWJhxbkp8YIUeh/giphy.gif)
+
+### Front/Backend Trybeer - Using React + NodeJS and SQL + responsive to smartphones.
+(group project / 10 days / Kanban + Sprint Scrum)
+
+![Project Trybeer](https://media.giphy.com/media/FHYEgpmGt1jAJ2qAAA/giphy.gif)
