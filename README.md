@@ -44,4 +44,4 @@ Some examples of projects done so far:
 ### Front/Backend Trybeer - Using React + Tailwind CSS + NodeJS and SQL - responsive to smartphones.
 (group project / 10 days / Kanban + Sprint Scrum)
 
-![Project Trybeer](https://media.giphy.com/media/FHYEgpmGt1jAJ2qAAA/giphy.gif)
+![Project Trybeer](https://media.giphy.com/media/yNzRh0F8ePQzi1J4aL/giphy.gif)
