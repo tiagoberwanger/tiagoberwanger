@@ -36,12 +36,12 @@ Some examples of projects done so far:
 ### StarWars Datatable - Using React/Hooks + API request to Starwars planets API.
 ![Project Datatable Starwars](https://media.giphy.com/media/zLVzLwAyFQ6Q7nLIjq/giphy.gif)
 
-### FrontEnd Recipes App - Using React/Redux + API request to Recipes API + responsive to smartphones.
+### FrontEnd Recipes App - Using React/Redux + API request to Recipes API - responsive to smartphones.
 (group project / 10 days / Kanban + Sprint Scrum)
 
 ![Project Recipes App](https://media.giphy.com/media/UAwJNWJhxbkp8YIUeh/giphy.gif)
 
-### Front/Backend Trybeer - Using React + NodeJS and SQL + responsive to smartphones.
+### Front/Backend Trybeer - Using React + Tailwind CSS + NodeJS and SQL - responsive to smartphones.
 (group project / 10 days / Kanban + Sprint Scrum)
 
 ![Project Trybeer](https://media.giphy.com/media/FHYEgpmGt1jAJ2qAAA/giphy.gif)
