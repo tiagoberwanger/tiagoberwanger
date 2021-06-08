@@ -39,6 +39,7 @@ Backend:
 
 ### Frontend
 
+HTML + CSS + JavaScript
 *[Project - HTML & CSS](https://github.com/tiagoberwanger/Projeto-Lessons-Learned)*  
 *[Project - Playground Functions](https://github.com/tiagoberwanger/Projeto-Playground-Functions)*  
 *[Project - Meme Generator](https://github.com/tiagoberwanger/Projeto-Meme-Generator)*  
