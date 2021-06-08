@@ -36,7 +36,15 @@ Trybe program has more than **1,500 hours** of classroom and online classes and 
 
 <hr>
 
-## Portfólio
+# Portfólio
+
+## Available in deployment
+
+*[Trybeer](https://trybeer-ft.herokuapp.com/)* (React + Tailwind CSS | NodeJS + SQL)  
+*[Residencial](https://residencial-berwanger.herokuapp.com/)* (React + Tailwind CSS | NodeJS + MongoDB)  
+*[Marvel App](https://marvel-app-ft.herokuapp.com/)* (React + BootstrapCSS | NodeJS + JWT + Sequelize + PostgreSQL)  
+
+## Repositories
 
 ### Frontend
 
