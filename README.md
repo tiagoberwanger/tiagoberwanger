@@ -16,7 +16,7 @@ Trybe program has more than **1,500 hours** of classroom and online classes and 
 
 <hr>
 
-## languages
+## Languages
 
 <div>
 <img src="./assets/Html-icon.png" width="40" height="50">
