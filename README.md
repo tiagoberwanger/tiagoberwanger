@@ -41,7 +41,7 @@ Trybe program has more than **1,500 hours** of classroom and online classes and 
 ## Available in deployment
 
 *[Trybeer](https://trybeer-ft.herokuapp.com/)* (React + Tailwind CSS | NodeJS + SQL)  
-*[Django Residencial](http://django-residencial.herokuapp.com/)* (Django + BootstrapCSS | Gdrive + PostgreSQL)  
+*[Residencial Itapiranga](https://residencial-itapiranga.herokuapp.com/)* (Django + BootstrapCSS | Gdrive + PostgreSQL)  
 *[Marvel App](https://marvel-app-ft.herokuapp.com/)* (React + BootstrapCSS | NodeJS + JWT + Sequelize + PostgreSQL)  
 
 ## Repositories
