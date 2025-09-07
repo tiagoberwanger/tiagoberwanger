@@ -33,5 +33,7 @@ Trybe program has more than **1,500 hours** of classroom and online classes and 
 <img src="./assets/nodejs_logo.png" width="50" height="50">
 <img src="./assets/docker.png" width="70" height="55">
 </div>
-
-<hr>
+<div>
+<img src="./assets/python.png" width="60" height="55">
+<img src="./assets/django.png" width="60" height="50">
+</div>
