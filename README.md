@@ -6,16 +6,6 @@
 
 ### Fullstack Developer - Javascript | Python
 
-<hr>
-
-This GitHub contains all learning activities developed by *Tiago Berwanger* while studying at [Trybe](https://www.betrybe.com/) :rocket:
-
-Trybe program has more than **1,500 hours** of classroom and online classes and covers front-end, back-end, computer science, software engineering, agile methodologies, and soft skills.
-
-[Trybe Repository](https://github.com/tiagoberwanger/Curso-Trybe)
-
-<hr>
-
 ## Languages
 
 <div>
