@@ -23,17 +23,14 @@ Trybe program has more than **1,500 hours** of classroom and online classes and 
 <img src="./assets/Css-icon.png" width="40" height="50">
 <img src="./assets/JavaScript-icon.png" width="60" height="50">
 <img src="./assets/react-logo.png" width="50" height="50">
+<img src="./assets/python.png" width="60" height="55">
+<img src="./assets/django.svg" width="60" height="50">
+</div>
+<div>
 <img src="./assets/Jest-icon.png" width="50" height="50">
 <img src="./assets/reactTestingLibrary-logo.png" width="50" height="50">
-</div>
-<div>
-<img src="./assets/mySQL.png" width="60" height="55">
-<img src="./assets/sequelize.svg" width="60" height="50">
-<img src="./assets/mongoDB.png" width="55" height="55">
 <img src="./assets/nodejs_logo.png" width="50" height="50">
+<img src="./assets/mySQL.png" width="60" height="55">
 <img src="./assets/docker.png" width="70" height="55">
-</div>
-<div>
-<img src="./assets/python.png" width="60" height="55">
-<img src="./assets/django.png" width="60" height="50">
+<img src="./assets/aws.png" width="70" height="55">
 </div>
